@@ -127,9 +127,7 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
-input:focus {
-  outline: none;
-}
-#login-form input:focus {
-  border-color: rgba(0, 0, 0, 0.4);
+a {
+  color: #2e363e;
+  text-decoration: none;
 }
