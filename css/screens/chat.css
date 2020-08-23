@@ -83,12 +83,10 @@
   background-color: var(--yellow);
   border-top-right-radius: 0px;
   border-top-left-radius: 15px;
+  margin-right: 0px;
+  margin-left: 5px;
 }
 
-.message-row--own .message__bubble {
-  order: 1;
-}
-
-.message-row--own .message__time {
-  order: 0;
+.message-row--own .message__info {
+  flex-direction: row-reverse;
 }
