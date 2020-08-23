@@ -1,3 +1,7 @@
+.body {
+  height: 1000vh;
+}
+
 .recommended-friends {
   margin: 20px 0px;
   padding: 20px;
@@ -123,7 +127,6 @@
     transform: none;
   }
 }
-
 
 .open-post__heart-count:hover i {
   will-change: transform;
