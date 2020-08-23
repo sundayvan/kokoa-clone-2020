@@ -1,6 +1,6 @@
 .recommended-friends {
-  margin: 25px 0px;
-  padding: 25px 0px;
+  margin: 20px 0px;
+  padding: 20px;
   border-top: var(--main-border);
   border-bottom: var(--main-border);
 }
@@ -11,11 +11,15 @@
 }
 
 .recommended-friends span {
-  margin: 100px 0;
+  margin: 80px 0;
   display: block;
   text-align: center;
   font-size: 18px;
   color: var(--grey-color);
+}
+
+.open-chat {
+  margin-bottom: 800px;
 }
 
 .open-chat__header {
